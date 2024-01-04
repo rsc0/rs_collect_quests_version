@@ -1,0 +1,1 @@
+# rs_collect_quests_version
